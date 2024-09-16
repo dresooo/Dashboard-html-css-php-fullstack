@@ -1,0 +1,430 @@
+* {
+  padding: 0;
+  margin: 0;
+
+}
+
+
+.body .container {
+  font-family: 'Poppins', sans-serif;
+}
+
+.semua {
+  background-color: #67729D;
+}
+
+.color {
+  background-color: blue;
+}
+
+.bgcolor {
+  background-color: #E7BCDE;
+  width: auto;
+  height: 400px;
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-top: 50px;
+}
+
+.bgcolor h2 {
+  text-align: center;
+}
+
+.backgroundfull {
+  background-color: #FED9ED;
+  height: 1350px;
+  padding-top: 25px
+}
+
+.bgcolor .atas h2 {
+  color: #67729D;
+}
+
+.bgcolor .tengah p {
+  margin-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+}
+
+.bgcolor .bawah h2 {
+  margin-top: 50px;
+  color: #67729D;
+}
+
+.bgcolorberita {
+  padding: 50px;
+  margin-top: 50px;
+  background-color: #FED9ED;
+  height: 3000px;
+}
+
+.infoberita h2 {
+  margin-bottom: 10px;
+  color: #67729D;
+}
+
+/* Add your news section and item styles */
+.news-section {
+  margin-top: 20px;
+}
+
+.news-item {
+  margin-bottom: 20px;
+}
+
+.whatin {
+  padding-top: 50px;
+  height: 600px;
+  background-color: aqua;
+}
+
+.whatin .atas h2 {
+  text-align: center;
+  color: black;
+}
+
+.whatin .bawah h2 {
+  color: blue;
+}
+
+
+
+.backgroundberita {
+  height: 720px;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 15px;
+  padding-top: 50px;
+  padding-left: 18px;
+
+}
+
+.newsinfo {
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: #E7BCDE;
+  width: 750px;
+  height: 800px;
+}
+
+.cardbg {
+  padding-left: 25px;
+  padding-top: 25px;
+  background-color: #E7BCDE;
+  margin-left: 55px;
+  width: 440px;
+}
+
+.bglogo {
+  height: 410px;
+
+}
+
+.whatatas h2 {
+  padding-top: 70px;
+  text-align: center;
+}
+
+.whatlogo {
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+}
+
+.whatlogo img {
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 130px;
+  height: auto;
+}
+
+.whatlogo h1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+.whatlogo .kiri {
+  width: 150px;
+  height: 180px;
+  margin-right: 50px;
+  border: solid black 1px;
+  border-radius: 20px;
+}
+
+.whatlogo .tengah {
+  width: 150px;
+  height: 180px;
+  margin-right: 50px;
+  border: solid black 1px;
+  border-radius: 20px;
+}
+
+.whatlogo .kanan {
+  width: 150px;
+  height: 180px;
+  border: solid black 1px;
+  border-radius: 20px;
+}
+
+.bgdestinasipilihan {
+
+  background-color: #E7BCDE;
+  height: 400px;
+}
+
+.hotel .pilihanhotel {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.fotodestinasi {
+  background-color: #E7BCDE;
+  height: 200px;
+}
+
+.fotodestinasi h2 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #67729D;
+  padding-top: 50px;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 60px;
+}
+
+.fotodestinasi h3 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #67729D;
+  text-align: center;
+}
+
+.destinasigambar {
+  height: 820px;
+}
+
+.destinasigambar img {
+  margin-top: 25px;
+  width: 410px;
+  height: 300px;
+}
+
+.destinasigambar h4 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  float: right;
+  margin-top: 10px;
+}
+
+.jumlah h5 {
+
+  background-color: #E7BCDE;
+  border-radius: 100%;
+}
+
+.circle {
+  width: 23px;
+  height: 23px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.outor {
+  height: 480px;
+}
+
+.outor h2 {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.outor .atas {
+  margin-left: 370px;
+  margin-top: 10px;
+}
+
+.outor img {
+  margin-right: 50px;
+  border-radius: 1000px;
+  width: 130px;
+  height: 130px;
+  text-align: center;
+  float: left;
+}
+
+.outor h3 {
+  margin-top: 40px;
+  font-size: 25px;
+}
+
+.outor h4 {
+  font-size: 15px;
+}
+
+.outor .bawah {
+  margin-left: 370px;
+  margin-top: 50px;
+}
+
+.saran {
+  padding: 25px;
+  background-color: #FED9ED;
+  height: 600px;
+}
+
+.saran .kiri {
+  padding: 20px;
+  width: 500px;
+  height: 550px;
+  background-color: #E7BCDE;
+}
+
+.saran .kiri h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.saran .kanan {
+  margin-left: 20px;
+  padding: 20px;
+  width: 750px;
+  height: 550px;
+  background-color: #E7BCDE;
+}
+
+.saran .kanan h2 {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer {
+  margin-top: 50px;
+  background-color: #BB9CC0;
+  height: 300px;
+}
+
+.footer .kiri {
+  width: 500px;
+  height: 300px;
+
+  padding: 20px;
+  margin-top: 25px;
+  margin-left: 100px;
+}
+
+.footer .atas {
+  padding: 15px;
+  width: 400px;
+  height: 70px;
+
+}
+
+.footer .atas img {
+  margin-right: 25px;
+  float: left;
+  width: 50px;
+}
+
+.footer .atas h4 {
+  margin-top: 5px;
+}
+
+.footer .kanan {
+  margin-left: 50px;
+  margin-top: 30px;
+  width: 500px;
+  height: 300px;
+  padding: 20px;
+}
+
+.footer .kanan img {
+  width: 50px;
+  margin-right: 7px;
+}
+
+
+.bgsuplemen {
+  margin-top: 50px;
+  background-color: #FED9ED;
+  /* Ganti dengan warna latar belakang yang diinginkan */
+  height: 500px;
+}
+
+.bgsuplemen .row {
+
+  display: flex;
+  justify-content: center;
+}
+
+.bgsuplemen .kiri {
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 1200px;
+  padding-top: 25px;
+  padding-left: 25px;
+}
+
+.bgsuplemen .hotelborder {
+  margin-left: -50px;
+  /* Mengurangi margin kiri */
+  margin-right: 100px;
+  /* Mengurangi margin kanan */
+  background: linear-gradient(90deg, white 90%, #BB9CC0 10%);
+  border-radius: 40px;
+  width: 580px;
+  height: 165px;
+  padding-left: 30px;
+  padding-top: 15px;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.bgsuplemen .hotelborder1 {
+  margin-left: -50px;
+  /* Mengurangi margin kiri */
+  margin-right: 100px;
+  /* Mengurangi margin kanan */
+  background: linear-gradient(90deg, white 90%, #BB9CC0 10%);
+  border-radius: 40px;
+  padding-right: 60px;
+  width: 580px;
+  height: 165px;
+  padding-left: 30px;
+  padding-top: 15px;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.bgsuplemen .news-item {
+  margin-bottom: 30px;
+  width: 35%;
+  margin-right: 100px;
+  /* Menambahkan margin kanan */
+  margin-left: 25px;
+  /* Menambahkan margin kiri */
+}
+
+.bgsuplemen .flex-grow-1 {
+  width: 120px;
+  /* Sesuaikan dengan kebutuhan, ini memberi ruang yang cukup untuk teks */
+}
+
+.bgsuplemen .hotelborder img {
+  width: 130px;
+  height: 130px;
+  margin-right: 100px;
+}
+
+.bgsuplemen h1 {
+  margin-left: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  margin-top: 25px;
+}
